@@ -1,5 +1,4 @@
-# Render-Effect-In-Compose
-#### Exploring RenderEffect in Jetpack Compose
+# Exploring RenderEffect In Compose
 
 For detailed implementation checkout: 
 
