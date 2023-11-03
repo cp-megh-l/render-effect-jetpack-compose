@@ -1,6 +1,7 @@
 # Exploring RenderEffect In Compose
 
 For detailed implementation checkout: 
+[Medium Blog](https://blog.canopas.com/how-to-use-render-effects-in-jetpack-compose-for-stunning-visuals-01287d7f00db?source=collection_home---------0----------------------------)
 
 ### ExpandableFabRenderEffect
 <img src="https://github.com/cp-megh-l/render-effect-jetpack-compose/assets/98312779/4047ac3c-7258-458d-9803-91d2975eeaa9" />
